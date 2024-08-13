@@ -1,5 +1,5 @@
 1. Title and Introduction
-🌟 Project Title: Your portfolio's name or title.
+🌟 Project Title: personal-portfolio
 📜 Introduction: Begin with a brief introduction explaining what this portfolio represents. Use an emoji like 📜 to symbolize a scroll, which gives a classic feel to the idea of an introduction.
 2. Head Section (<head>)
 🧠 <head> - The Brain of the HTML File:
